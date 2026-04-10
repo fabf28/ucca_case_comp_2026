@@ -1,15 +1,10 @@
-# React + TypeScript + Vite
+# Brownstone Resources Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive website for Brownstone Resources, a privately held land and mineral rights acquisition company based in Southern Saskatchewan, Western Canada.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Brownstone Resources specializes in evaluating, purchasing, and managing farmland and subsurface mineral rights across Western Canada. This website serves as the company's digital presence, providing information about their services, company background, and tools for landowners to get evaluations or refer others.
 
 ## Expanding the ESLint configuration
 
