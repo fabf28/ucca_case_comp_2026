@@ -6,7 +6,7 @@ A modern, responsive website for Brownstone Resources, a privately held land and
 
 Brownstone Resources specializes in evaluating, purchasing, and managing farmland and subsurface mineral rights across Western Canada. This website serves as the company's digital presence, providing information about their services, company background, and tools for landowners to get evaluations or refer others.
 
-## Overview
+## Running the Website
 
 Run at: https://b818838f.brownstone-3te.pages.dev/
 
